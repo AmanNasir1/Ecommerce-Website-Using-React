@@ -12,7 +12,7 @@ const Shop = () => {
         </h1>
       </div>
       <div className="products">{PRODUCT.map((product,key)=>
-         <Product data = {product} />)}</div>
+         <Product data = {product} key={key}  />)}</div>
     </div>
   );
 };

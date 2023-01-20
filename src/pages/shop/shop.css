@@ -13,19 +13,14 @@ img{
 
 .description{
     text-align: center;
-}
-.description{
     font-weight: bold;
-}
-/* .description button:hover{
-    background-color:black;
 
-} */
+}
+
 
 
 .button-34 {
     border: 2px solid cadetblue;
-  /* background: cadetblue; */
   border-radius: 999px;
   box-shadow: cadetblue 0 10px 20px -10px;
   box-sizing: border-box;
@@ -50,3 +45,4 @@ img{
     color: white;
     border: 0;
 }
+
